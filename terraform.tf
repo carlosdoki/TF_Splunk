@@ -3,7 +3,7 @@ terraform {
     organization = "DokiLAB"
 
     workspaces {
-      name = "Splunk"
+      name = "TF_Splunk"
     }
   }
   required_providers {
